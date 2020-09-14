@@ -1,3 +1,5 @@
+# To the start the application, Run the WebAPI first then employee-application in Node JS Command Prompt using npm start
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
